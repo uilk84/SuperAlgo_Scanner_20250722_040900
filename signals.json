@@ -1,0 +1,5 @@
+[
+  {"ticker":"AAPL","signal":"BUY","price":172.15,"datetime":"2025-07-22T04:09:00Z"},
+  {"ticker":"TSLA","signal":"SELL","price":650.32,"datetime":"2025-07-22T04:08:45Z"},
+  {"ticker":"BLMK","signal":"WATCH","price":0.48,"datetime":"2025-07-22T04:08:30Z"}
+]
